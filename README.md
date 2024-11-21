@@ -1,2 +1,2 @@
 Image Classification
-Dataset : https://www.kaggle.com/datasets/ellentheodora/tanaman-herbal
+Dataset : https://data.mendeley.com/datasets/s82j8dh4rr/1
