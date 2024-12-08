@@ -1,9 +1,9 @@
 # HerbMate - Machine Learning
 
 # About Dataset :
-1. The dataset for image recognition was obtained from the Mendeley site with the title "Indonesian Herb Leaf Dataset 3500" (Link: https://data.mendeley.com/datasets/s82j8dh4rr/1). To facilitate the work, we uploaded the dataset to Kaggle (Link: www.kaggle.com/datasets/ellentheodora/tanaman-herbal).
+• The dataset for image recognition was obtained from the Mendeley site with the title "Indonesian Herb Leaf Dataset 3500" (Link: https://data.mendeley.com/datasets/s82j8dh4rr/1). To facilitate the work, we uploaded the dataset to Kaggle (Link: www.kaggle.com/datasets/ellentheodora/tanaman-herbal).
 
-2. The dataset containing information about herbal plants, their benefits, and how to use them was obtained through research by reading official and trusted health articles and journals.
+• The dataset containing information about herbal plants, their benefits, and how to use them was obtained through research by reading official and trusted health articles and journals.
 
 # About the model :
 HerbMate uses Convolutional Neural Network (CNN) for recognizing herbal plant images. We built the architecture from scratch. CNN is highly effective in extracting hierarchical features from images, making it ideal for object recognition tasks. The CNN model is trained to identify distinctive characteristics of herbal plants from the images taken by users. This makes searching for plant information faster and more accurate, allowing users to learn more about herbal plants just by using a photo.
